@@ -1,6 +1,6 @@
 {
   "name": "vangesteljasper/collection",
-  "description": "Convenience Object with get, set, ans has methods.",
+  "description": "Convenience object with `get`, `set`, `setMultiple`, `unset` and `has` methods.",
   "license": "MIT",
   "keywords": [
     "object",
