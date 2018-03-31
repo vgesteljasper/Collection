@@ -1,0 +1,24 @@
+{
+  "name": "vangesteljasper/collection",
+  "description": "Convenience Object with get, set, ans has methods.",
+  "license": "MIT",
+  "keywords": [
+    "object",
+    "convenience",
+    "array"
+  ],
+  "authors": [
+    {
+      "name": "Van Gestel Jasper",
+      "email": "vgesteljasper@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "VanGestelJasper\\Collection\\": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
