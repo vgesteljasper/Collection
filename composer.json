@@ -1,5 +1,5 @@
 {
-  "name": "vangesteljasper/collection",
+  "name": "vjee/collection",
   "description": "Convenience object with `get`, `set`, `setMultiple`, `unset` and `has` methods.",
   "license": "MIT",
   "keywords": [
@@ -17,7 +17,7 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "VanGestelJasper\\Collection\\": "src"
+      "vjee\\collection\\": "src"
     }
   },
   "minimum-stability": "dev"

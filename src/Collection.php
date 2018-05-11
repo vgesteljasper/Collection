@@ -1,4 +1,4 @@
-<?php namespace VanGestelJasper\Collection;
+<?php namespace vjee\Collection;
 
 class Collection
 {

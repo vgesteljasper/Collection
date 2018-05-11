@@ -1,10 +1,10 @@
-# VanGestelJasper\Collection
+# vjee\collection
 
 Convenience object with `get`, `set`, `setMultiple`, `unset` and `has` methods.
 
 ## Usage
 ```php
-$collection = new \VanGestelJasper\Collection\Collection;
+$collection = new vjee\collection\Collection;
 
 $collection->setMultiple([
   'keyOne' => 'valueOne',
